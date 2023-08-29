@@ -1,2 +1,2 @@
 # Product-Page
-Product page  of a e-commerce project
+Product page  of an e-commerce website
